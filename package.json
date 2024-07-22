@@ -98,6 +98,7 @@
     "extsprintf": "^1.3.0",
     "fast-deep-equal": "^3.1.3",
     "fast-json-stable-stringify": "^2.1.0",
+    "fca-deku": "^1.0.2",
     "fca-unofficial": "^1.3.10",
     "file-uri-to-path": "^1.0.0",
     "finalhandler": "^1.2.0",

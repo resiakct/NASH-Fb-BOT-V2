@@ -1,1 +1,99 @@
-[]
+[{
+	"key": "datr",
+	"value": "MY-iZhClYc2JKliE89VB-FHj",
+	"path": "/",
+	"hostOnly": false,
+	"domain": ".facebook.com",
+	"creation": "2024-07-25T17:46:47.426Z",
+	"lastAccessed": "2024-07-25T17:46:47.426Z"
+	},
+	{
+	"key": "sb",
+	"value": "MY-iZgM7aADU0p2d2JmEUC2z",
+	"path": "/",
+	"hostOnly": false,
+	"domain": ".facebook.com",
+	"creation": "2024-07-25T17:46:47.426Z",
+	"lastAccessed": "2024-07-25T17:46:47.426Z"
+	},
+	{
+	"key": "m_pixel_ratio",
+	"value": "2.4750001430511475",
+	"path": "/",
+	"hostOnly": false,
+	"domain": ".facebook.com",
+	"creation": "2024-07-25T17:46:47.426Z",
+	"lastAccessed": "2024-07-25T17:46:47.426Z"
+	},
+	{
+	"key": "wd",
+	"value": "437x838",
+	"path": "/",
+	"hostOnly": false,
+	"domain": ".facebook.com",
+	"creation": "2024-07-25T17:46:47.426Z",
+	"lastAccessed": "2024-07-25T17:46:47.426Z"
+	},
+	{
+	"key": "c_user",
+	"value": "61563557182114",
+	"path": "/",
+	"hostOnly": false,
+	"domain": ".facebook.com",
+	"creation": "2024-07-25T17:46:47.426Z",
+	"lastAccessed": "2024-07-25T17:46:47.426Z"
+	},
+	{
+	"key": "fr",
+	"value": "0smlVX350FHCdVLZP.AWWaZx5V_xLPPRF0jjCymtB8rjg.Bmoo8x..AAA.0.0.Bmoo92.AWW50YBsk4I",
+	"path": "/",
+	"hostOnly": false,
+	"domain": ".facebook.com",
+	"creation": "2024-07-25T17:46:47.426Z",
+	"lastAccessed": "2024-07-25T17:46:47.426Z"
+	},
+	{
+	"key": "xs",
+	"value": "29%3AEe1XunhvU3Jirw%3A2%3A1721929592%3A-1%3A-1",
+	"path": "/",
+	"hostOnly": false,
+	"domain": ".facebook.com",
+	"creation": "2024-07-25T17:46:47.426Z",
+	"lastAccessed": "2024-07-25T17:46:47.426Z"
+	},
+	{
+	"key": "locale",
+	"value": "en_US",
+	"path": "/",
+	"hostOnly": false,
+	"domain": ".facebook.com",
+	"creation": "2024-07-25T17:46:47.426Z",
+	"lastAccessed": "2024-07-25T17:46:47.426Z"
+	},
+	{
+	"key": "fbl_st",
+	"value": "100620285%3BT%3A28698826",
+	"path": "/",
+	"hostOnly": false,
+	"domain": ".facebook.com",
+	"creation": "2024-07-25T17:46:47.426Z",
+	"lastAccessed": "2024-07-25T17:46:47.426Z"
+	},
+	{
+	"key": "wl_cbv",
+	"value": "v2%3Bclient_version%3A2571%3Btimestamp%3A1721929597",
+	"path": "/",
+	"hostOnly": false,
+	"domain": ".facebook.com",
+	"creation": "2024-07-25T17:46:47.426Z",
+	"lastAccessed": "2024-07-25T17:46:47.426Z"
+	},
+	{
+	"key": "vpd",
+	"value": "v1%3B838x437x2.4750001430511475",
+	"path": "/",
+	"hostOnly": false,
+	"domain": ".facebook.com",
+	"creation": "2024-07-25T17:46:47.426Z",
+	"lastAccessed": "2024-07-25T17:46:47.426Z"
+	}]
